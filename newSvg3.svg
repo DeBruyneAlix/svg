@@ -1,5 +1,5 @@
 <svg width="760" height="482" xmlns="http://www.w3.org/2000/svg">
-  <text x="302" y="100" font-size="10" font-family="Arial, sans-serif" text-anchor="left">NOM / <tspan font-style="italic">Name</tspan></text>
+  <text x="302" y="100" font-size="10" font-family="Arial, sans-serif" fill="#fc3503" text-anchor="left">NOM / <tspan font-style="italic">Name</tspan></text>
   <text x="302" y="120" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="name">[name]</text>
   <text x="302" y="165" font-size="10" font-family="Arial, sans-serif" text-anchor="left">Prénoms / <tspan font-style="italic">Given names</tspan></text>
   <text x="302" y="185" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="givenNames">[givenNames]</text>
