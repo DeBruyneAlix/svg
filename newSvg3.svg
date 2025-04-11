@@ -2,8 +2,13 @@
   <text x="302" y="100" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
   <text x="302" y="120" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="name">[name]</text>
   <text x="302" y="165" font-size="10" font-family="Arial" text-anchor="left">PRENOM/Name</text>
+  <text x="302" y="185" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="givenNames">[givenNames]</text>
   <text x="302" y="224" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="244" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="sex">[sex]</text>
   <text x="302" y="264" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="284" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="placeOfBirth">[placeOfBirth]</text>
   <text x="302" y="300" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="320" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="alternateName">[alternateName]</text>
   <text x="302" y="342" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="362" font-size="20" font-weight="bold" font-family="Arial" text-transform="uppercase" text-anchor="left" data-source="json" data-key="docNumber">[docNumber]</text>
 </svg>
