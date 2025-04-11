@@ -1,8 +1,9 @@
 <svg width="760" height="482" xmlns="http://www.w3.org/2000/svg">
-  <text x="302" y="120" font-size="20" font-family="Georgia, serif" text-anchor="middle" fill="#000">NOM/Name</text>
-  <text x="302" y="165" font-size="20" font-family="Georgia" text-anchor="middle" fill="#000">PRENOM/Name</text>
-  <text x="302" y="224" font-size="20" font-family="Georgia, serif" text-anchor="middle" fill="#000">NOM/Name</text>
-  <text x="302" y="264" font-size="20" font-family="Georgia, serif" text-anchor="middle" fill="#000">NOM/Name</text>
-  <text x="302" y="300" font-size="15" font-family="Georgia, serif" text-anchor="middle" fill="#000">NOM/Name</text>
-  <text x="302" y="342" font-size="6" font-family="Georgia, serif" text-anchor="middle" fill="#000">NOM/Name</text>
+  <text x="302" y="100" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="120" font-size="20" font-family="Georgia, serif" text-anchor="left" data-source="json" data-key="name">[name]</text>
+  <text x="302" y="165" font-size="10" font-family="Arial" text-anchor="left">PRENOM/Name</text>
+  <text x="302" y="224" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="264" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="300" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
+  <text x="302" y="342" font-size="10" font-family="Arial" text-anchor="left">NOM/Name</text>
 </svg>
